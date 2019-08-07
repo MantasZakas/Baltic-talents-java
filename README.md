@@ -1,1 +1,1 @@
-# Baltic-talents-java
+Baltic talents java
